@@ -1,0 +1,22 @@
+[
+  {
+    "image": "PPT_ch7_page_021.png",
+    "pred": "7.2MatrixMultiplicatio\nParallel\nprocessing of\nproducts on the computer is\nfacilitated\n(3) for computing C = AB, which\nby\nvariant\nof\na\nis\nused by\nalgorithms\n(such as\nsin\nstandard\nLapack). In this\nmethod, A\nis\ngiven,\nB\n is taken in terms of its\nused\nS1\nas\nthe product is computed\no\nand\ncolumnwise; thus,\nb2…\nAb2\nAbp].\n(5) AB = A[b1\n bp] = [Ab1\nColumns of B\nare then assigned to different processors\n(individually\ny or several to each processor), which\nsimultaneously compute the columns of the product\nmatrix Ab1, Ab2, etc.\nAdvanced Engineering Mathematics, 10/e by Edwin Kreyszig\nSection 7.2 p21\nCopyright 2011 by John Wiley & Sons. All rights reserved."
+  },
+  {
+    "image": "PPT_8076_MEYER_Chapter_2_-_Language_Change_page_017.png",
+    "pred": "Morphology\n(cont.)\nAgglutinative languages—Meaning is expressed by\nvery complex internal structure. Turkish is a very\nagglutinative language.The construction ayiçtik\nmeansWedranktetaay=te;=dink'; and\ntik = 'we/past').\nTAERSCRE"
+  },
+  {
+    "image": "PPT_1001115_eng_page_003.png",
+    "pred": "Who Am I?\nMin-Te Sun (Peter) Sun\n- An associate professor of Computer Science &\nInformation Engineering, National Central University\nStudied in US for a long time\n(from 1993 ~ 2002)\n Worked as a CS professor at Auburn University,\nAlabama between 2002 and 2008 (before coming back\nto Taiwan)\n– Have taught CS courses in English for more than 10\nyears"
+  },
+  {
+    "image": "PPT_13 fallacies LALT2012_page_001.png",
+    "pred": "International\nMeeting\nLanguages, Applied\non\nLinguistics\nand\nTranslation\nUniversity\nÉvora,\nof\n6-7\nDecember\n2012\nThirteen\nFallacies\nabout\nthe\nUsers\nand\nUses\nof\nEnglish\nInternational\nLanguage\nas\nan\nLuis\nGuerra\nUniversity\nÉvora,\nof\nPortugal"
+  },
+  {
+    "image": "PPT_CalculusReview_page_033.png",
+    "pred": "Integral\nCalculus\n(n+1)\nX\n+C\nn+1\n+C\n2\n2\n+C\n3"
+  }
+]
