@@ -25,8 +25,8 @@ Finally from our root folder you can run the following to get started:
 
     pip install -r requirements.txt
 
-    sudo /home/username/micromamba/envs/.venv/bin/python experiment-runner RunnerConfig.py
-
-For the run itself, first let the laptop sit for 30 minutes, and afterwards just run:
+For the run itself, first let the laptop sit for 30 minutes, and afterwards just either of the following:
     
-    sudo /home/username/micromamba/envs/.venv/bin/python experiment-runner RunnerConfig.py
+    sudo /home/username/micromamba/envs/.venv/bin/python experiment-runner RunnerConfig_EnergiBridge.py
+    
+    sudo /home/username/micromamba/envs/.venv/bin/python experiment-runner RunnerConfig_PowerJoular.py
