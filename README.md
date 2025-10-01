@@ -14,8 +14,6 @@ sudo chmod g+r /dev/cpu/*/msr;
 micromamba create -p .venv 'python==3.12'
 micromamba activate .venv
 
-uv pip install -r requirements.txt
+pip install -r requirements.txt
 
-cd datasets
-
-uv run python run_paddle.py
+python experiment-runner RunConfig.py
