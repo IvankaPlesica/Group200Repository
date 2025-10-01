@@ -10,14 +10,16 @@ parser = argparse.ArgumentParser()
 parser.add_argument("--sample-size", type=int, default=0)
 parser.add_argument("--seed", type=int, default=0)
 parser.add_argument("--dataset", type=str)
+parser.add_argument("--run-dir", type=str)
+parser.add_argument("--document-type", type=str)
 
 args = parser.parse_args()
 print(args)
 
-if args.dataset:
-    img_folder = args.dataset
+if args.dataset and args.document_type:
+    img_folder = args.dataset + '/' + args.document_type
 else:
-    raise ValueError("Please provide a dataset path using --dataset")
+    raise ValueError("Please provide a dataset path using --dataset and --document-type.")
 results = []
 
 all_images = [
@@ -52,7 +54,9 @@ for img_name in images:
         # Save empty prediction if error occurs for robust batching
         results.append({'image': img_name, 'pred': ""})    
 
-with open('paddleocr_results.json', 'w', encoding='utf-8') as f: #will save in current directory
+file_location = 'experiments/new_runner_experiment/' + args.run_dir + '/paddleocr_results.json'
+print("Saving results to", file_location)
+with open(file_location, 'w', encoding='utf-8') as f:
     json.dump(results, f, ensure_ascii=False, indent=2)
 
 print("Saved", len(results), "results")
