@@ -15,8 +15,18 @@ Then run the following commands to create a virtual environment to run our progr
     micromamba create -p .venv 'python==3.12'
     micromamba activate .venv
 
+Optionally if you are running the EnergiBridge configuration
+
+    sudo chgrp -R $USER /dev/cpu/*/msr;
+    
+    sudo chmod g+r /dev/cpu/*/msr;
+
 Finally from our root folder you can run the following to get started:
 
     pip install -r requirements.txt
 
+    sudo /home/username/micromamba/envs/.venv/bin/python experiment-runner RunnerConfig.py
+
+For the run itself, first let the laptop sit for 30 minutes, and afterwards just run:
+    
     sudo /home/username/micromamba/envs/.venv/bin/python experiment-runner RunnerConfig.py
