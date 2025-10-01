@@ -1,19 +1,22 @@
-curl https://sh.rustup.rs -sSf | sh
+Usage:
 
-"${SHELL}" <(curl -L micro.mamba.pm/install.sh)
+First install the following packages:
 
-apt install tesseract-ocr
+    curl https://sh.rustup.rs -sSf | sh
 
-apt-get install ccache
+    "${SHELL}" <(curl -L micro.mamba.pm/install.sh)
 
-git clone https://github.com/tdurieux/EnergiBridge.git
+    apt install tesseract-ocr
 
-sudo chgrp -R $USER /dev/cpu/*/msr;
-sudo chmod g+r /dev/cpu/*/msr;
+    apt-get install ccache
 
-micromamba create -p .venv 'python==3.12'
-micromamba activate .venv
+Then run the following commands to create a virtual environment to run our programs in:
 
-pip install -r requirements.txt
+    micromamba create -p .venv 'python==3.12'
+    micromamba activate .venv
 
-python experiment-runner RunConfig.py
+Finally from our root folder you can run the following to get started:
+
+    pip install -r requirements.txt
+
+    sudo /home/username/micromamba/envs/.venv/bin/python experiment-runner RunnerConfig.py
