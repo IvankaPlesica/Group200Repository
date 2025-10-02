@@ -15,7 +15,6 @@ parser.add_argument("--document-type", type=str)
 parser.add_argument("--language-type", type=str)
 
 args = parser.parse_args()
-print(args)
 
 if args.dataset and args.document_type:
     img_folder = args.dataset + '/' + args.document_type

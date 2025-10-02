@@ -11,6 +11,7 @@ import sys
 from typing import Dict, List, Any, Optional
 from pathlib import Path
 from os.path import dirname, realpath
+import os
 
 class RunnerConfig:
     ROOT_DIR = Path(dirname(realpath(__file__)))
@@ -76,7 +77,29 @@ class RunnerConfig:
     def before_experiment(self) -> None:
         """Perform any activity required before starting the experiment here
         Invoked only once during the lifetime of the program."""
-        pass
+        try:
+            os.mkdir("experiments/new_runner_experiment/test_run")
+        except FileExistsError:
+            pass
+        
+        cmd = (
+            f"{sys.executable}"
+            f"  run_paddle.py"
+            f"  --sample-size 10"
+            f"  --seed 42"
+            f"  --document-type Old_books_2noise"
+            f"  --dataset Noisy_Dataset"
+            f"  --run-dir test_run"
+            f"  --language-type eng"
+            f"  > /dev/null 2>&1"
+        )
+
+        self.profiler = EnergiBridge(target_program=f"bash -c '{cmd}'",
+                                     out_file=Path("experiments/new_runner_experiment/test_run/energibridge.csv"))
+        self.profiler.start()
+        self.target = self.profiler.process
+        self.target.wait()
+        self.profiler.stop(wait=True)
 
     def before_run(self) -> None:
         """Perform any activity required before starting a run.
