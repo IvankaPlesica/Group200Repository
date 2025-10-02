@@ -58,11 +58,14 @@ class RunnerConfig:
         factor2 = FactorModel("document_type", ['Old_books_2noise', 'Old_books_Arabic', 'Old_books_No_noise', 'Book', 'Newspaper', 'notes', 'slides'])
         factor3 = FactorModel("dataset", ['Noisy_Dataset', 'Omni_Dataset'])
         factor4 = FactorModel("sample_size", [1,10])
+        factor5 = FactorModel("language", ['eng', 'ara'])
         self.run_table_model = RunTableModel(
-            factors = [factor1, factor2, factor3, factor4],
+            factors = [factor1, factor2, factor3, factor4, factor5],
             exclude_combinations=[
                 {factor2: ['Old_books_2noise', 'Old_books_Arabic', 'Old_books_No_noise'], factor3: ['Omni_Dataset']},
                 {factor2: ['Book', 'Newspaper', 'notes', 'slides'], factor3: ['Noisy_Dataset']},
+                {factor2: ['Old_books_No_noise', 'Old_books_2noise', 'Book', 'Newspaper', 'notes', 'slides'], factor5: ['ara']},
+                {factor2: ['Old_books_Arabic'], factor5: ['eng']},
             ],
             data_columns=["energy", "runtime", "memory"],
             repetitions=10,
@@ -99,6 +102,7 @@ class RunnerConfig:
             f"  --document-type {context.execute_run['document_type']}"
             f"  --dataset {context.execute_run['dataset']}"
             f"  --run-dir {context.run_dir.name}"
+            f"  --language-type {context.execute_run['language']}"
             f"  > /dev/null 2>&1"
         )
 

@@ -11,6 +11,7 @@ parser.add_argument("--seed", type=int, default=0)
 parser.add_argument("--dataset", type=str)
 parser.add_argument("--run-dir", type=str)
 parser.add_argument("--document-type", type=str)
+parser.add_argument("--language-type", type=str)
 
 args = parser.parse_args()
 print(args)
@@ -41,7 +42,7 @@ for img_name in images:
         continue
     try:    
         img_path = os.path.join(img_folder, img_name)
-        text = pytesseract.image_to_string(Image.open(img_path))
+        text = pytesseract.image_to_string(Image.open(img_path), lang=args.language_type)
         results.append({'image': img_name, 'pred': text})
     except Exception as e:
         print("❌ Error with", img_name, ":", e)

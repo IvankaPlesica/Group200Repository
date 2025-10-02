@@ -12,6 +12,7 @@ parser.add_argument("--seed", type=int, default=0)
 parser.add_argument("--dataset", type=str)
 parser.add_argument("--run-dir", type=str)
 parser.add_argument("--document-type", type=str)
+parser.add_argument("--language-type", type=str)
 
 args = parser.parse_args()
 print(args)
@@ -37,7 +38,12 @@ if args.sample_size > 0:
 else:
     images = all_images
 
-ocr = PaddleOCR(use_textline_orientation=True, lang='en')
+if args.language_type == 'eng':
+    model_name = "PP-OCRv5_mobile_rec"
+elif args.language_type == 'ara':
+    model_name = "arabic_PP-OCRv3_mobile_rec"
+    
+ocr = PaddleOCR(text_recognition_model_name=model_name, use_textline_orientation=True, lang=args.language_type)
 #ocr = PaddleOCR(use_textline_orientation=True, lang='ch') # For Chinese
 #ocr = PaddleOCR(use_textline_orientation=True, lang='ar') # For Arabic
 
