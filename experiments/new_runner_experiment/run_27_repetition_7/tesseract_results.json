@@ -1,0 +1,42 @@
+[
+  {
+    "image": "PPT_BaharMartonosi_page_010.png",
+    "pred": "THE BIGGER PICTURE:\nCOMMUNICATION AND YOUR CAREER\n\nExpressing yourself technically\nhelps you make and use\nprofessional connections wisely\n\nYou are joining a long-term\ncommunity...\n\nCommunicate your ideas to forge\nmentoring and technical\nrelationships in the service of\n\nprofessional goals ©\n"
+  },
+  {
+    "image": "PPT_B14_Claeys_Consistent Presentation of Images_v2_page_024.png",
+    "pred": "What about color 7\n\n= Consistency is harder to achieve\n— Gamut of devices much more variable\n— Greater influence of psychovisual effects\n\n= Extensive standards efforts e.g. ICC\n\n= DICOM recently defined color presentation\nin a manner very similar to grayscale.\n\n— Many display and print devices already have\nICC profiles, but few medical imaging devices\nsupport color presentation state.\n"
+  },
+  {
+    "image": "PPT_MMAT5390Lecture1_page_023.png",
+    "pred": "What is a digital image?\n\n=» Mathematical definition:\n» A 2D (grayscale) digital image is a 2D function defined on a 2D domain\n(usually rectangular domain):\n\nf:Q3R\n\n» f(z,y) is called the brightness/intensity/grey level;\n= (x,y) is the spatial coordinates of the image.\n= Thus, a 2D digital image looks like this:\n\nFAA) f0,2) .-. FAN)\n\nF241) f(2,2) .-.  £(2,N)\nfry= |, . .\n\nFIN, VD) FN,2) «FCN, N)\n\n=» Each element in the matrix is called pixel (picture element);\n» Usually, 0 < f(x,y) <G—1 and (N =2\",G=2\")\n\nIMAGE PROCESSING IS RELATED TO LINEAR ALGEBRA!!\n"
+  },
+  {
+    "image": "PPT_Keuk Chan Narith_page_005.png",
+    "pred": "An Emergence of English language variety in Cam\n\ne Needs of English language:\n- living survival\n\n- higher education\n\n- diplomatic relationship\n\n- seeking residency abroad\n"
+  },
+  {
+    "image": "PPT_PresentationSpecification_page_007.png",
+    "pred": "e\n\nIMPORTANT DATES\n\n@ You should:\n\n@eBy Jan 24, 2016;\n\nForm groups with 4 students; and\n\no Determine your presentation topic; and\ne@By Jan 31, 2016;\n\nSubmit the Group Presentation Topic and Desc;\no Don’t miss the due dates!!!\no We suggest you taking action as early as\npossible;\n\nENGG1000 Presentation Specification 5/21/2025\n\n/\n\n"
+  },
+  {
+    "image": "PPT_1637904769_page_008.png",
+    "pred": "OBJECTIVES OF\nTEACHING/LEARNING ENGLISH\n\ne Linguistic competence.\ne Socio-linguistic competence.\ne Pragmatical competence.\ne Cultural competence.\n_@ Literary competence.\n\n_\n\ne\n"
+  },
+  {
+    "image": "PPT_ch7_page_020.png",
+    "pred": "7.2 Matrix Multiplication\n\nOur examples show that in matrix products the order of\nfactors must always be observed very carefully.\nOtherwise matrix multiplication satisfies rules similar to\nthose for numbers, namely.\n\n(a) (kA)B=k(AB)=A(kB) written kAB or AkB\n(2) (b) A(BC)=(AB)C written ABC\n\n(c) (A+B)C =AC+BC\n\n(d) C(A+B)=CA+CB\n\nprovided A, B, and C are such that the expressions on the\nleft are defined; here, k is any scalar. (2b) is called the\nassociative law. (2c) and (2d) are called the distributive\nlaws.\n\nSection 7.2 p20 Advanced Engineering Mathematics, 10/e by Edwin Kreyszig\nCopyright 2011 by John Wiley & Sons. All rights reserved.\n"
+  },
+  {
+    "image": "PPT_fundamental_theorem_of_calculus___page_005.png",
+    "pred": "Generally, this is what we could do:\na __ |\nArea of 1 rectangle = f(x) xh\nf(x)\n\nh\nArea of all the rectangles = > f(x)x h\n\nActual area under the curve =lim > f(x)xh\nh—0\n\nwhich is written as fo) dx\n( but evaluating this limit is incredibly complicated)\n"
+  },
+  {
+    "image": "PPT_fundamental_theorem_of_calculus___page_006.png",
+    "pred": "After an lot of algebra, it would probably\ncome to an expression similar to this:\n\nArea = lim 56(1+2h + 4h? + 8h? +... )\nas h>0\n\n= 56 units?\n\nUnfortunately, simplyfying the expression\ninto something like the above is extremely\ndifficult. (see pages 285 — 288 in my book)\n"
+  },
+  {
+    "image": "PPT_BaharMartonosi_page_006.png",
+    "pred": "A “TYPICAL” PROJECT TALK OUTLINE\no Title/author/affiliation (1 slide) Who am I?\n\n© Forecast (1 slide)\n\nGive gist of problem attacked and What is the problem?\n\ninsight found\no Outline (1 slide)\no Background\n\ne Motivation and Problem ‘Why is it important?\n\nStatement (1-2 slides)\n\n- Related Work (0-1 slides) _ WHA IaiveOtheS/donie?)\n\ne Methods (1-3 slides)\nExplain your approach; illustrate\nalgorithm\n"
+  }
+]

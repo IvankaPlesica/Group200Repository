@@ -1,0 +1,42 @@
+[
+  {
+    "image": "PPT_BaharMartonosi_page_010.png",
+    "pred": "THE\nBIGGER\nPICTURE:\nCOMMUNICATION\nYOUR CAREER\nAND\nExpressing\nyourself\nf technically\nhelps\nmake\nand\nyou\nuse\nprofessional\nl connections\ns wisely\nYou are joining\ng a long-term\ncommunity...\nCommunicate\nr ideas to forge\nyour\nmentoring\nand\ntechnical\nrelationships\nin\nthe\nservice\ne of\nprofessional\ngoals"
+  },
+  {
+    "image": "PPT_B14_Claeys_Consistent Presentation of Images_v2_page_024.png",
+    "pred": "What\nabout\ncolor\n?\nConsistency\nis\nharder\nto\nachieve\nGamut\nof\ndevices\nmuch\nvariable\nmore\nGreater\ninfluence\nof\npsychovisual\neffects\nExtensive\nstandards\nefforts\nICC\ne.g.\nDICOM\nrecently\ndefined\ncolor\npresentation\nsimilar\n1n\na\nmanner\nvery\nto\ngrayscale.\nMany\ndisplay\nand\nprint\ndevices\nalready\nhave\nICC\nprofiles,\nbut\nfew\nmedical\nimaging\ndevices\nsupport color\npresentation\nstate.\n"
+  },
+  {
+    "image": "PPT_MMAT5390Lecture1_page_023.png",
+    "pred": "What is a digital\nimage?\nT\nMathematical definition:\nＡ2D\n(grayscale) digital image is a 2D function defined on a 2D domain\n(usually rectangular domain):\nf(x, y)\nis called the brightness/intensity/grey level;\n(x,y)\nis\nthe spatial coordinates of the image.\nThus, a 2D (\ndigital image looks like this:\n[cd (1, 1)\nf (1, 2)\nf (1, N ) ]\nf(2, 1)\nf (2, 2)\nf (2, N )\nf(x, y) =\n··\n\n·\nf (N, 1)\nf (N , 2)\nf (N, N )\nEach element in the matrix is called pixel (picture element);\nUsually, 0 ≤ f (x, y) ≤ G − 1 and (N = 2n, G = 2m)\nIMAGE PROCESSInG IS RELATED TO LINEAR ALGEBRA!!"
+  },
+  {
+    "image": "PPT_Keuk Chan Narith_page_005.png",
+    "pred": "An\nEmergence of English\nh Ianguage variety in Cambodia\nNeeds\nof\nEnglish language:\nliving\nsurvival\nhigher\neducation\ndiplomatic\nrelationship\nseeking\nresidency\nabroad"
+  },
+  {
+    "image": "PPT_PresentationSpecification_page_007.png",
+    "pred": "IMPORTANT\nDATES\nYou\nshould:\nBy\nJan\n24,\n2016;\nForm groups with 4 students; and\n□\n Determine\ne your presentation topic; and\n口\nBy\nJan\n31,\n2016;\nSubmit\nthe Group Presentation Topic and Desc;\n□\nDon't miss\nthe due dates!!!\n□\nWe suggest you taking action as early\nas\n□\npossible;\nENGG100O Presentation Specification\n5/21/2025"
+  },
+  {
+    "image": "PPT_1637904769_page_008.png",
+    "pred": "OBJECTIVES\nOF\nTEACHING/LEARNING\nENGLISH\nLinguistic\ncompetence.\nSocio-linguistic\ncompetence.\n\nPragmatical\ncompetence.\nCultural\ncompetence.\nLiterary\ncompetence.\nPractical\ncompetence."
+  },
+  {
+    "image": "PPT_ch7_page_020.png",
+    "pred": "7.2 Matrix Multiplicatior\nOur\nr examples\n; show\nthat\nt in matrix\nproducts the order of\nfactors\nmust\nalways\nbe observed very carefully.\n1\n\nOtherwise\nmatrix r\nmultiplication satisfies\ns rules similar to\nthose for r\nnumbers, namely.\n(a)\n(kA)B = k(AB) = A(kB)\nwritten kAB or AkB\n(q)\nA(BC) = (AB)C\nwritten ABC\n(2)\n(c) (A + B)C = AC + BC\n(d) C(A + B) = CA + CB\nprovided A, B, and C are such that the expressions on the\nleft are defined; here, k is any scalar. (2b) is called the\nassociative law. (2c) and (2d) are called the distributive\nlaws.\nSection 7.2 p20\nAdvanced Engineering Mathematics, 10/e by Edwin Kreyszig\nCopyright 2011 by John Wiley & Sons. All rights reserved."
+  },
+  {
+    "image": "PPT_fundamental_theorem_of_calculus___page_005.png",
+    "pred": "Generally, this is what we could do:\nArea of 1 rectangle ≈ f(x) × h\nf(x)\nh\nArea of all the rectangles ≈\n∑f(x)×h\nActual area under the curve = lim\n∑f(x)×h\nh→→0\nSf(x) dx\nwhich\nh is written as\n but evaluating this limit is incredibly complicated)"
+  },
+  {
+    "image": "PPT_fundamental_theorem_of_calculus___page_006.png",
+    "pred": "After an lot of algebra, it would probably\ncome to an expression similar to this:\nArea\n56( 1 + 2h + 4h² + 8h³ + .. )\nlim\nas h→0\n= 56 units²\nUnfortunately,\n, simplyfying\n the expression\ninto something\nlike\nthe above\nis\nextremely\ndifficult.\n(see pages 285 – 288 in my book)"
+  },
+  {
+    "image": "PPT_BaharMartonosi_page_006.png",
+    "pred": "A“TYPICAL”PROJECT\nT TALK OUTLINE\nTitle/author/affiliation (1 slide)\nWho am\nI?\nForecast (1 slide)\nGive gist of problem attacked and\nWhat\nt is\nthe problem?\ninsight found\nOutline (1 slide)\nBackground\nMotivation and Problem\n Why is it important?\nStatement (1-2 slides)\nWhat have others done?\nRelated Work (0-1 slides)\nMethods (1-3 slides)\nWhat\nt is my approach?\nExplain your approach; illustrate\nalgorithm"
+  }
+]

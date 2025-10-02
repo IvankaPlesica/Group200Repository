@@ -1,0 +1,281 @@
+__run_id,__done,ocr_library,document_type,dataset,sample_size,language,energy,runtime,memory
+run_4_repetition_1,DONE,paddle,Old_books_No_noise,Noisy_Dataset,1,eng,32.344390869140625,4.605562,9661394944
+run_26_repetition_0,DONE,tesseract,slides,Omni_Dataset,1,eng,10.791168212890625,0.803042,9585623040
+run_23_repetition_0,DONE,tesseract,Newspaper,Omni_Dataset,10,eng,1506.3283996582031,75.235306,10490343424
+run_5_repetition_0,DONE,paddle,Old_books_No_noise,Noisy_Dataset,10,eng,42.712066650390625,6.811721,9717985280
+run_18_repetition_8,DONE,tesseract,Old_books_No_noise,Noisy_Dataset,1,eng,4.4394378662109375,0.4039272,9506045952
+run_1_repetition_6,DONE,paddle,Old_books_2noise,Noisy_Dataset,10,eng,2744.483139038086,116.25315,13435469824
+run_3_repetition_2,TODO,paddle,Old_books_Arabic,Noisy_Dataset,10,ara, , , 
+run_10_repetition_9,DONE,paddle,notes,Omni_Dataset,1,eng,314.5260925292969,17.811861,12220317696
+run_27_repetition_4,DONE,tesseract,slides,Omni_Dataset,10,eng,102.86131286621094,5.004284,9757933568
+run_19_repetition_6,DONE,tesseract,Old_books_No_noise,Noisy_Dataset,10,eng,4.649169921875,0.40305382,9454006272
+run_15_repetition_1,DONE,tesseract,Old_books_2noise,Noisy_Dataset,10,eng,168.9846954345703,8.005685,9627656192
+run_4_repetition_0,DONE,paddle,Old_books_No_noise,Noisy_Dataset,1,eng,24.682937622070312,3.807148,9454424064
+run_21_repetition_8,DONE,tesseract,Book,Omni_Dataset,10,eng,149.3168487548828,7.005163,9689313280
+run_2_repetition_9,TODO,paddle,Old_books_Arabic,Noisy_Dataset,1,ara, , , 
+run_17_repetition_8,DONE,tesseract,Old_books_Arabic,Noisy_Dataset,10,ara,20.651229858398438,1.4039131,9447387136
+run_18_repetition_6,DONE,tesseract,Old_books_No_noise,Noisy_Dataset,1,eng,4.2388153076171875,0.40317705,9407217664
+run_3_repetition_0,TODO,paddle,Old_books_Arabic,Noisy_Dataset,10,ara, , , 
+run_6_repetition_2,DONE,paddle,Book,Omni_Dataset,1,eng,389.11431884765625,19.813587,12472311808
+run_14_repetition_2,DONE,tesseract,Old_books_2noise,Noisy_Dataset,1,eng,16.107818603515625,1.0039029,9625116672
+run_9_repetition_2,TODO,paddle,Newspaper,Omni_Dataset,10,eng, , , 
+run_15_repetition_9,DONE,tesseract,Old_books_2noise,Noisy_Dataset,10,eng,174.1271514892578,8.406539,9446637568
+run_5_repetition_3,DONE,paddle,Old_books_No_noise,Noisy_Dataset,10,eng,27.342025756835938,4.006697,9289080832
+run_20_repetition_8,DONE,tesseract,Book,Omni_Dataset,1,eng,21.068511962890625,1.2036483,9325895680
+run_13_repetition_4,DONE,paddle,slides,Omni_Dataset,10,eng,1907.1866455078125,80.239006,12390723584
+run_23_repetition_6,DONE,tesseract,Newspaper,Omni_Dataset,10,eng,1469.8656311035156,75.03213,10275405824
+run_3_repetition_8,TODO,paddle,Old_books_Arabic,Noisy_Dataset,10,ara, , , 
+run_10_repetition_6,DONE,paddle,notes,Omni_Dataset,1,eng,301.23406982421875,15.81366,11932102656
+run_22_repetition_9,DONE,tesseract,Newspaper,Omni_Dataset,1,eng,85.1041259765625,4.2061625,9478934528
+run_26_repetition_8,DONE,tesseract,slides,Omni_Dataset,1,eng,11.69012451171875,0.8034046,9347010560
+run_1_repetition_2,DONE,paddle,Old_books_2noise,Noisy_Dataset,10,eng,2703.779800415039,114.45117,13238747136
+run_7_repetition_3,DONE,paddle,Book,Omni_Dataset,10,eng,2108.8038635253906,88.4473,12925280256
+run_20_repetition_3,DONE,tesseract,Book,Omni_Dataset,1,eng,21.10162353515625,1.2038691,9497210880
+run_7_repetition_5,DONE,paddle,Book,Omni_Dataset,10,eng,2102.8418731689453,89.646126,12928495616
+run_0_repetition_9,DONE,paddle,Old_books_2noise,Noisy_Dataset,1,eng,300.72406005859375,15.8103075,11586330624
+run_4_repetition_8,DONE,paddle,Old_books_No_noise,Noisy_Dataset,1,eng,42.163604736328125,3.8080943,9370943488
+run_0_repetition_4,DONE,paddle,Old_books_2noise,Noisy_Dataset,1,eng,322.8360137939453,15.611925,11622866944
+run_6_repetition_0,TODO,paddle,Book,Omni_Dataset,1,eng, , , 
+run_17_repetition_1,DONE,tesseract,Old_books_Arabic,Noisy_Dataset,10,ara,15.253631591796875,1.0036759,9518407680
+run_19_repetition_1,DONE,tesseract,Old_books_No_noise,Noisy_Dataset,10,eng,4.3515777587890625,0.40345985,9332887552
+run_21_repetition_1,DONE,tesseract,Book,Omni_Dataset,10,eng,152.63331604003906,7.0063553,9448120320
+run_2_repetition_1,TODO,paddle,Old_books_Arabic,Noisy_Dataset,1,ara, , , 
+run_16_repetition_3,DONE,tesseract,Old_books_Arabic,Noisy_Dataset,1,ara,9.367568969726562,0.80402625,9361256448
+run_9_repetition_6,TODO,paddle,Newspaper,Omni_Dataset,10,eng, , , 
+run_15_repetition_8,DONE,tesseract,Old_books_2noise,Noisy_Dataset,10,eng,177.51461791992188,8.407849,9486508032
+run_14_repetition_4,DONE,tesseract,Old_books_2noise,Noisy_Dataset,1,eng,16.905349731445312,1.0030141,9368580096
+run_1_repetition_0,DONE,paddle,Old_books_2noise,Noisy_Dataset,10,eng,2783.100311279297,123.05806,13318209536
+run_24_repetition_2,DONE,tesseract,notes,Omni_Dataset,1,eng,15.41131591796875,1.0034639,9560223744
+run_15_repetition_3,DONE,tesseract,Old_books_2noise,Noisy_Dataset,10,eng,169.95301818847656,8.006249,9481424896
+run_18_repetition_3,DONE,tesseract,Old_books_No_noise,Noisy_Dataset,1,eng,4.24371337890625,0.40312245,9300512768
+run_12_repetition_5,DONE,paddle,slides,Omni_Dataset,1,eng,308.0749969482422,15.00947,11954835456
+run_10_repetition_8,DONE,paddle,notes,Omni_Dataset,1,eng,290.0672302246094,15.014575,11910029312
+run_18_repetition_1,DONE,tesseract,Old_books_No_noise,Noisy_Dataset,1,eng,4.30169677734375,0.4069063,9374519296
+run_1_repetition_3,DONE,paddle,Old_books_2noise,Noisy_Dataset,10,eng,2712.5741577148438,115.05572,13289607168
+run_4_repetition_4,DONE,paddle,Old_books_No_noise,Noisy_Dataset,1,eng,57.386199951171875,10.211221,9553612800
+run_5_repetition_6,DONE,paddle,Old_books_No_noise,Noisy_Dataset,10,eng,25.796844482421875,4.4081507,9350184960
+run_19_repetition_5,DONE,tesseract,Old_books_No_noise,Noisy_Dataset,10,eng,4.2744140625,0.4033285,9283936256
+run_5_repetition_1,DONE,paddle,Old_books_No_noise,Noisy_Dataset,10,eng,25.41400146484375,4.0081573,9306656768
+run_26_repetition_2,DONE,tesseract,slides,Omni_Dataset,1,eng,11.735275268554688,0.8034536,9330442240
+run_21_repetition_0,DONE,tesseract,Book,Omni_Dataset,10,eng,146.22393798828125,7.006369,9441976320
+run_12_repetition_2,DONE,paddle,slides,Omni_Dataset,1,eng,277.0355987548828,14.415636,12029194240
+run_11_repetition_5,DONE,paddle,notes,Omni_Dataset,10,eng,2083.111785888672,87.04351,13037297664
+run_15_repetition_2,DONE,tesseract,Old_books_2noise,Noisy_Dataset,10,eng,168.66168212890625,8.006312,9586503680
+run_8_repetition_8,DONE,paddle,Newspaper,Omni_Dataset,1,eng,1186.0592651367188,53.030766,13626081280
+run_6_repetition_5,DONE,paddle,Book,Omni_Dataset,1,eng,374.5682830810547,18.612415,12408930304
+run_12_repetition_0,DONE,paddle,slides,Omni_Dataset,1,eng,290.6133270263672,18.415388,12043153408
+run_17_repetition_0,DONE,tesseract,Old_books_Arabic,Noisy_Dataset,10,ara,17.882766723632812,1.2042505,9474134016
+run_23_repetition_7,DONE,tesseract,Newspaper,Omni_Dataset,10,eng,1476.2573699951172,75.02826,10261962752
+run_19_repetition_0,DONE,tesseract,Old_books_No_noise,Noisy_Dataset,10,eng,4.19219970703125,0.4036501,9261469696
+run_22_repetition_1,DONE,tesseract,Newspaper,Omni_Dataset,1,eng,87.65542602539062,4.2049994,9405755392
+run_8_repetition_0,DONE,paddle,Newspaper,Omni_Dataset,1,eng,1087.7507934570312,49.626972,13607313408
+run_24_repetition_9,DONE,tesseract,notes,Omni_Dataset,1,eng,14.993240356445312,1.0039905,9364992000
+run_2_repetition_7,TODO,paddle,Old_books_Arabic,Noisy_Dataset,1,ara, , , 
+run_8_repetition_5,DONE,paddle,Newspaper,Omni_Dataset,1,eng,1119.0309448242188,51.631138,13681037312
+run_6_repetition_7,DONE,paddle,Book,Omni_Dataset,1,eng,384.08941650390625,20.612617,12404903936
+run_21_repetition_7,DONE,tesseract,Book,Omni_Dataset,10,eng,144.53453063964844,7.005891,9513975808
+run_3_repetition_1,TODO,paddle,Old_books_Arabic,Noisy_Dataset,10,ara, , , 
+run_15_repetition_0,DONE,tesseract,Old_books_2noise,Noisy_Dataset,10,eng,175.0428466796875,8.40655,9465364480
+run_9_repetition_9,TODO,paddle,Newspaper,Omni_Dataset,10,eng, , , 
+run_4_repetition_3,DONE,paddle,Old_books_No_noise,Noisy_Dataset,1,eng,36.12718200683594,4.6064744,9333854208
+run_11_repetition_6,DONE,paddle,notes,Omni_Dataset,10,eng,2104.320556640625,88.24335,12765683712
+run_14_repetition_8,DONE,tesseract,Old_books_2noise,Noisy_Dataset,1,eng,16.765792846679688,1.0072968,9526247424
+run_1_repetition_9,DONE,paddle,Old_books_2noise,Noisy_Dataset,10,eng,2721.2418060302734,115.25293,13271035904
+run_3_repetition_5,TODO,paddle,Old_books_Arabic,Noisy_Dataset,10,ara, , , 
+run_13_repetition_5,DONE,paddle,slides,Omni_Dataset,10,eng,1939.187484741211,82.24111,12395671552
+run_27_repetition_2,DONE,tesseract,slides,Omni_Dataset,10,eng,96.57246398925781,5.005244,9576501248
+run_22_repetition_2,DONE,tesseract,Newspaper,Omni_Dataset,1,eng,86.21302795410156,4.204383,9483862016
+run_9_repetition_0,TODO,paddle,Newspaper,Omni_Dataset,10,eng, , , 
+run_18_repetition_2,DONE,tesseract,Old_books_No_noise,Noisy_Dataset,1,eng,7.1520233154296875,0.60333794,9291694080
+run_0_repetition_5,DONE,paddle,Old_books_2noise,Noisy_Dataset,1,eng,319.56947326660156,17.412369,11554316288
+run_10_repetition_5,DONE,paddle,notes,Omni_Dataset,1,eng,295.0334014892578,15.210011,11956690944
+run_25_repetition_3,DONE,tesseract,notes,Omni_Dataset,10,eng,59.29106140136719,3.4046774,9543274496
+run_26_repetition_7,DONE,tesseract,slides,Omni_Dataset,1,eng,11.492889404296875,0.8030942,9420480512
+run_20_repetition_7,DONE,tesseract,Book,Omni_Dataset,1,eng,21.4144287109375,1.2037894,9440165888
+run_15_repetition_4,DONE,tesseract,Old_books_2noise,Noisy_Dataset,10,eng,173.14988708496094,8.008451,9483608064
+run_14_repetition_5,DONE,tesseract,Old_books_2noise,Noisy_Dataset,1,eng,16.977691650390625,1.0034549,9381367808
+run_6_repetition_9,DONE,paddle,Book,Omni_Dataset,1,eng,377.42918395996094,19.815815,12539809792
+run_21_repetition_5,DONE,tesseract,Book,Omni_Dataset,10,eng,151.2991180419922,7.0058513,9722630144
+run_27_repetition_3,DONE,tesseract,slides,Omni_Dataset,10,eng,97.85249328613281,5.00489,9521098752
+run_16_repetition_4,DONE,tesseract,Old_books_Arabic,Noisy_Dataset,1,ara,4.277008056640625,0.40335852,9356238848
+run_12_repetition_6,DONE,paddle,slides,Omni_Dataset,1,eng,275.8948974609375,14.009422,12155564032
+run_20_repetition_4,DONE,tesseract,Book,Omni_Dataset,1,eng,21.58111572265625,1.2038546,9579941888
+run_13_repetition_9,DONE,paddle,slides,Omni_Dataset,10,eng,1902.7131042480469,79.835335,12420157440
+run_21_repetition_4,DONE,tesseract,Book,Omni_Dataset,10,eng,146.2261505126953,7.0050755,9602215936
+run_27_repetition_6,DONE,tesseract,slides,Omni_Dataset,10,eng,91.2342529296875,4.8049383,9501290496
+run_21_repetition_3,DONE,tesseract,Book,Omni_Dataset,10,eng,145.2163543701172,7.006059,9503088640
+run_4_repetition_9,DONE,paddle,Old_books_No_noise,Noisy_Dataset,1,eng,26.1212158203125,4.4052806,9351319552
+run_22_repetition_4,DONE,tesseract,Newspaper,Omni_Dataset,1,eng,86.00334167480469,4.205658,9473347584
+run_5_repetition_9,DONE,paddle,Old_books_No_noise,Noisy_Dataset,10,eng,26.632278442382812,4.2078137,9342685184
+run_11_repetition_8,DONE,paddle,notes,Omni_Dataset,10,eng,2065.4109649658203,86.643524,13073559552
+run_15_repetition_7,DONE,tesseract,Old_books_2noise,Noisy_Dataset,10,eng,168.34310913085938,8.006898,9591435264
+run_12_repetition_9,DONE,paddle,slides,Omni_Dataset,1,eng,275.7212219238281,15.413821,12094279680
+run_13_repetition_7,DONE,paddle,slides,Omni_Dataset,10,eng,1907.4974975585938,80.03845,12464693248
+run_7_repetition_4,DONE,paddle,Book,Omni_Dataset,10,eng,2101.464859008789,87.64176,13053554688
+run_13_repetition_2,DONE,paddle,slides,Omni_Dataset,10,eng,1893.2003173828125,79.63696,12552314880
+run_0_repetition_0,DONE,paddle,Old_books_2noise,Noisy_Dataset,1,eng,300.7349090576172,16.814516,11639558144
+run_2_repetition_6,TODO,paddle,Old_books_Arabic,Noisy_Dataset,1,ara, , , 
+run_26_repetition_4,DONE,tesseract,slides,Omni_Dataset,1,eng,17.913253784179688,1.2032951,9457086464
+run_20_repetition_1,DONE,tesseract,Book,Omni_Dataset,1,eng,21.036956787109375,1.2032232,9427677184
+run_17_repetition_2,DONE,tesseract,Old_books_Arabic,Noisy_Dataset,10,ara,14.875885009765625,1.0035895,9361444864
+run_2_repetition_2,TODO,paddle,Old_books_Arabic,Noisy_Dataset,1,ara, , , 
+run_11_repetition_7,DONE,paddle,notes,Omni_Dataset,10,eng,2078.453353881836,87.84369,13101060096
+run_16_repetition_2,DONE,tesseract,Old_books_Arabic,Noisy_Dataset,1,ara,6.942108154296875,0.6036388,9463742464
+run_6_repetition_4,DONE,paddle,Book,Omni_Dataset,1,eng,367.60707092285156,18.413383,12362563584
+run_5_repetition_7,DONE,paddle,Old_books_No_noise,Noisy_Dataset,10,eng,23.743118286132812,3.806446,9471221760
+run_10_repetition_4,DONE,paddle,notes,Omni_Dataset,1,eng,291.4670104980469,14.611553,12051365888
+run_23_repetition_3,DONE,tesseract,Newspaper,Omni_Dataset,10,eng,1459.8439483642578,74.83056,10423070720
+run_25_repetition_7,DONE,tesseract,notes,Omni_Dataset,10,eng,55.359710693359375,3.2049649,9486139392
+run_24_repetition_6,DONE,tesseract,notes,Omni_Dataset,1,eng,11.76263427734375,0.80444574,9404948480
+run_19_repetition_3,DONE,tesseract,Old_books_No_noise,Noisy_Dataset,10,eng,4.2802886962890625,0.40317473,9290465280
+run_23_repetition_2,DONE,tesseract,Newspaper,Omni_Dataset,10,eng,1467.8768615722656,74.62834,10231758848
+run_22_repetition_3,DONE,tesseract,Newspaper,Omni_Dataset,1,eng,85.79690551757812,4.2043247,9429426176
+run_14_repetition_9,DONE,tesseract,Old_books_2noise,Noisy_Dataset,1,eng,16.434295654296875,1.0043614,9367306240
+run_4_repetition_7,DONE,paddle,Old_books_No_noise,Noisy_Dataset,1,eng,34.59257507324219,6.806617,9347837952
+run_5_repetition_2,DONE,paddle,Old_books_No_noise,Noisy_Dataset,10,eng,23.2977294921875,4.0065937,9343807488
+run_23_repetition_4,DONE,tesseract,Newspaper,Omni_Dataset,10,eng,1467.9696960449219,73.830574,10227093504
+run_0_repetition_1,DONE,paddle,Old_books_2noise,Noisy_Dataset,1,eng,308.8656463623047,15.611065,11608690688
+run_0_repetition_3,DONE,paddle,Old_books_2noise,Noisy_Dataset,1,eng,298.2362518310547,15.009975,11710091264
+run_12_repetition_8,DONE,paddle,slides,Omni_Dataset,1,eng,269.9247589111328,14.410062,12207448064
+run_17_repetition_7,DONE,tesseract,Old_books_Arabic,Noisy_Dataset,10,ara,14.87249755859375,1.0042055,9532755968
+run_13_repetition_6,DONE,paddle,slides,Omni_Dataset,10,eng,1925.2056121826172,81.040596,12524974080
+run_5_repetition_5,DONE,paddle,Old_books_No_noise,Noisy_Dataset,10,eng,21.0308837890625,3.6043396,9463320576
+run_8_repetition_3,DONE,paddle,Newspaper,Omni_Dataset,1,eng,1088.6923522949219,51.829422,13568389120
+run_27_repetition_7,DONE,tesseract,slides,Omni_Dataset,10,eng,96.67240905761719,5.205743,9431425024
+run_23_repetition_9,DONE,tesseract,Newspaper,Omni_Dataset,10,eng,1468.227294921875,74.83234,10201509888
+run_18_repetition_5,DONE,tesseract,Old_books_No_noise,Noisy_Dataset,1,eng,4.182281494140625,0.4033307,9282838528
+run_13_repetition_1,DONE,paddle,slides,Omni_Dataset,10,eng,1891.30859375,80.63992,12448825344
+run_21_repetition_9,DONE,tesseract,Book,Omni_Dataset,10,eng,157.78018188476562,7.206579,9594241024
+run_8_repetition_4,DONE,paddle,Newspaper,Omni_Dataset,1,eng,1214.919448852539,53.634155,13611143168
+run_11_repetition_3,DONE,paddle,notes,Omni_Dataset,10,eng,2110.8358001708984,91.053505,13073719296
+run_8_repetition_2,TODO,paddle,Newspaper,Omni_Dataset,1,eng, , , 
+run_16_repetition_6,DONE,tesseract,Old_books_Arabic,Noisy_Dataset,1,ara,8.10662841796875,0.6032772,9409261568
+run_9_repetition_8,TODO,paddle,Newspaper,Omni_Dataset,10,eng, , , 
+run_18_repetition_0,DONE,tesseract,Old_books_No_noise,Noisy_Dataset,1,eng,6.6888275146484375,0.6039414,9274945536
+run_1_repetition_1,DONE,paddle,Old_books_2noise,Noisy_Dataset,10,eng,2724.038131713867,116.45239,13368258560
+run_2_repetition_3,TODO,paddle,Old_books_Arabic,Noisy_Dataset,1,ara, , , 
+run_22_repetition_7,DONE,tesseract,Newspaper,Omni_Dataset,1,eng,87.79269409179688,4.404575,9462063104
+run_24_repetition_1,DONE,tesseract,notes,Omni_Dataset,1,eng,11.830230712890625,0.8033786,9402703872
+run_23_repetition_5,DONE,tesseract,Newspaper,Omni_Dataset,10,eng,1505.4369506835938,75.02974,10271698944
+run_24_repetition_4,DONE,tesseract,notes,Omni_Dataset,1,eng,11.461746215820312,0.8039956,9361895424
+run_16_repetition_8,DONE,tesseract,Old_books_Arabic,Noisy_Dataset,1,ara,4.2320556640625,0.40357703,9294610432
+run_17_repetition_3,DONE,tesseract,Old_books_Arabic,Noisy_Dataset,10,ara,14.859359741210938,1.0039836,9350250496
+run_26_repetition_3,DONE,tesseract,slides,Omni_Dataset,1,eng,11.665420532226562,0.80338657,9382109184
+run_25_repetition_1,DONE,tesseract,notes,Omni_Dataset,10,eng,55.295806884765625,3.2046797,9486991360
+run_26_repetition_6,DONE,tesseract,slides,Omni_Dataset,1,eng,11.8695068359375,0.8031666,9419272192
+run_8_repetition_1,DONE,paddle,Newspaper,Omni_Dataset,1,eng,1131.1376495361328,52.02816,13537689600
+run_6_repetition_3,DONE,paddle,Book,Omni_Dataset,1,eng,373.462890625,18.813133,12421312512
+run_27_repetition_1,DONE,tesseract,slides,Omni_Dataset,10,eng,96.00675964355469,5.005078,9494814720
+run_7_repetition_2,DONE,paddle,Book,Omni_Dataset,10,eng,2102.7133178710938,89.446205,13014913024
+run_0_repetition_8,DONE,paddle,Old_books_2noise,Noisy_Dataset,1,eng,299.8838653564453,15.610858,11643314176
+run_21_repetition_6,DONE,tesseract,Book,Omni_Dataset,10,eng,145.8647918701172,7.006252,9523212288
+run_12_repetition_1,DONE,paddle,slides,Omni_Dataset,1,eng,274.2239685058594,14.209715,12078694400
+run_16_repetition_7,DONE,tesseract,Old_books_Arabic,Noisy_Dataset,1,ara,4.226104736328125,0.4033957,9414029312
+run_13_repetition_0,DONE,paddle,slides,Omni_Dataset,10,eng,1886.5238952636719,79.23847,12451876864
+run_2_repetition_5,TODO,paddle,Old_books_Arabic,Noisy_Dataset,1,ara, , , 
+run_27_repetition_8,DONE,tesseract,slides,Omni_Dataset,10,eng,96.00428771972656,5.206573,9425649664
+run_4_repetition_2,DONE,paddle,Old_books_No_noise,Noisy_Dataset,1,eng,30.59368896484375,5.2082634,9321054208
+run_25_repetition_2,DONE,tesseract,notes,Omni_Dataset,10,eng,55.11480712890625,3.204159,9450340352
+run_11_repetition_4,DONE,paddle,notes,Omni_Dataset,10,eng,2049.118606567383,86.44324,13178343424
+run_14_repetition_0,DONE,tesseract,Old_books_2noise,Noisy_Dataset,1,eng,15.781173706054688,1.0032971,9474850816
+run_11_repetition_1,DONE,paddle,notes,Omni_Dataset,10,eng,2066.149703979492,86.44263,13074771968
+run_8_repetition_9,DONE,paddle,Newspaper,Omni_Dataset,1,eng,1087.131820678711,49.629047,13751676928
+run_15_repetition_5,DONE,tesseract,Old_books_2noise,Noisy_Dataset,10,eng,169.61170959472656,8.205781,9502224384
+run_20_repetition_9,DONE,tesseract,Book,Omni_Dataset,1,eng,20.92279052734375,1.2043041,9413685248
+run_24_repetition_7,DONE,tesseract,notes,Omni_Dataset,1,eng,11.941024780273438,0.80312485,9357942784
+run_25_repetition_4,DONE,tesseract,notes,Omni_Dataset,10,eng,54.58152770996094,3.205228,9461891072
+run_20_repetition_2,DONE,tesseract,Book,Omni_Dataset,1,eng,20.8929443359375,1.2038255,9390161920
+run_8_repetition_7,DONE,paddle,Newspaper,Omni_Dataset,1,eng,1111.5321350097656,52.03114,13636898816
+run_5_repetition_4,DONE,paddle,Old_books_No_noise,Noisy_Dataset,10,eng,29.616897583007812,4.4070687,9367515136
+run_18_repetition_9,DONE,tesseract,Old_books_No_noise,Noisy_Dataset,1,eng,4.0756988525390625,0.40328637,9312051200
+run_27_repetition_0,DONE,tesseract,slides,Omni_Dataset,10,eng,102.40904235839844,5.012441,9583820800
+run_1_repetition_4,DONE,paddle,Old_books_2noise,Noisy_Dataset,10,eng,2726.9291381835938,115.653244,13386530816
+run_6_repetition_1,DONE,paddle,Book,Omni_Dataset,1,eng,379.6061096191406,18.813541,12439195648
+run_2_repetition_8,TODO,paddle,Old_books_Arabic,Noisy_Dataset,1,ara, , , 
+run_25_repetition_9,DONE,tesseract,notes,Omni_Dataset,10,eng,61.271728515625,3.60449,9554444288
+run_18_repetition_4,DONE,tesseract,Old_books_No_noise,Noisy_Dataset,1,eng,4.3335723876953125,0.40359727,9331347456
+run_0_repetition_2,DONE,paddle,Old_books_2noise,Noisy_Dataset,1,eng,332.61614990234375,18.61192,11576373248
+run_12_repetition_7,DONE,paddle,slides,Omni_Dataset,1,eng,272.4230194091797,13.610007,12080295936
+run_3_repetition_4,TODO,paddle,Old_books_Arabic,Noisy_Dataset,10,ara, , , 
+run_17_repetition_4,DONE,tesseract,Old_books_Arabic,Noisy_Dataset,10,ara,20.4434814453125,1.4043244,9434857472
+run_16_repetition_9,DONE,tesseract,Old_books_Arabic,Noisy_Dataset,1,ara,4.2952728271484375,0.40314913,9413660672
+run_23_repetition_1,DONE,tesseract,Newspaper,Omni_Dataset,10,eng,1506.2790069580078,75.23577,10319380480
+run_25_repetition_5,DONE,tesseract,notes,Omni_Dataset,10,eng,57.839111328125,3.204638,9558773760
+run_10_repetition_0,DONE,paddle,notes,Omni_Dataset,1,eng,326.78057861328125,16.010204,12016316416
+run_8_repetition_6,DONE,paddle,Newspaper,Omni_Dataset,1,eng,1074.2973175048828,48.830883,13650149376
+run_7_repetition_8,DONE,paddle,Book,Omni_Dataset,10,eng,2124.290740966797,89.2453,13034225664
+run_0_repetition_6,DONE,paddle,Old_books_2noise,Noisy_Dataset,1,eng,306.2761993408203,17.213432,11578531840
+run_25_repetition_0,DONE,tesseract,notes,Omni_Dataset,10,eng,57.975067138671875,3.4043832,9537449984
+run_7_repetition_0,DONE,paddle,Book,Omni_Dataset,10,eng,2106.7159118652344,88.445175,13122953216
+run_24_repetition_8,DONE,tesseract,notes,Omni_Dataset,1,eng,14.93011474609375,1.0040677,9517420544
+run_6_repetition_8,DONE,paddle,Book,Omni_Dataset,1,eng,369.130615234375,19.012754,12337111040
+run_9_repetition_4,TODO,paddle,Newspaper,Omni_Dataset,10,eng, , , 
+run_24_repetition_3,DONE,tesseract,notes,Omni_Dataset,1,eng,16.946823120117188,1.2042431,9381470208
+run_19_repetition_4,DONE,tesseract,Old_books_No_noise,Noisy_Dataset,10,eng,4.1846923828125,0.40383938,9324158976
+run_22_repetition_6,DONE,tesseract,Newspaper,Omni_Dataset,1,eng,85.17642211914062,4.2050996,9467076608
+run_0_repetition_7,DONE,paddle,Old_books_2noise,Noisy_Dataset,1,eng,316.4900360107422,16.81234,11410558976
+run_12_repetition_4,DONE,paddle,slides,Omni_Dataset,1,eng,277.8912811279297,15.609552,12101357568
+run_22_repetition_5,DONE,tesseract,Newspaper,Omni_Dataset,1,eng,85.59782409667969,4.205003,9581330432
+run_12_repetition_3,DONE,paddle,slides,Omni_Dataset,1,eng,274.89170837402344,14.211472,12044972032
+run_14_repetition_3,DONE,tesseract,Old_books_2noise,Noisy_Dataset,1,eng,16.874969482421875,1.0034251,9539436544
+run_19_repetition_9,DONE,tesseract,Old_books_No_noise,Noisy_Dataset,10,eng,4.2621612548828125,0.40295145,9398566912
+run_10_repetition_7,DONE,paddle,notes,Omni_Dataset,1,eng,285.51141357421875,14.413106,12091691008
+run_24_repetition_0,DONE,tesseract,notes,Omni_Dataset,1,eng,11.96673583984375,0.8041577,9532624896
+run_9_repetition_1,TODO,paddle,Newspaper,Omni_Dataset,10,eng, , , 
+run_25_repetition_6,DONE,tesseract,notes,Omni_Dataset,10,eng,60.5272216796875,3.6048675,9464848384
+run_20_repetition_6,DONE,tesseract,Book,Omni_Dataset,1,eng,21.109390258789062,1.2034192,9437630464
+run_11_repetition_0,DONE,paddle,notes,Omni_Dataset,10,eng,2068.2095947265625,87.04718,13075185664
+run_5_repetition_8,DONE,paddle,Old_books_No_noise,Noisy_Dataset,10,eng,30.942626953125,5.809279,9449439232
+run_9_repetition_5,TODO,paddle,Newspaper,Omni_Dataset,10,eng, , , 
+run_26_repetition_1,DONE,tesseract,slides,Omni_Dataset,1,eng,17.042449951171875,1.2037672,9377406976
+run_14_repetition_1,DONE,tesseract,Old_books_2noise,Noisy_Dataset,1,eng,16.85260009765625,1.0040655,9389395968
+run_3_repetition_3,TODO,paddle,Old_books_Arabic,Noisy_Dataset,10,ara, , , 
+run_26_repetition_5,DONE,tesseract,slides,Omni_Dataset,1,eng,17.321151733398438,1.2050655,9362862080
+run_9_repetition_7,TODO,paddle,Newspaper,Omni_Dataset,10,eng, , , 
+run_19_repetition_2,DONE,tesseract,Old_books_No_noise,Noisy_Dataset,10,eng,6.5968170166015625,0.6038562,9281576960
+run_7_repetition_1,DONE,paddle,Book,Omni_Dataset,10,eng,2115.7320709228516,89.24947,13034639360
+run_1_repetition_5,DONE,paddle,Old_books_2noise,Noisy_Dataset,10,eng,2689.9300537109375,115.85514,13450489856
+run_21_repetition_2,DONE,tesseract,Book,Omni_Dataset,10,eng,146.140625,7.206021,9571250176
+run_3_repetition_6,TODO,paddle,Old_books_Arabic,Noisy_Dataset,10,ara, , , 
+run_3_repetition_7,TODO,paddle,Old_books_Arabic,Noisy_Dataset,10,ara, , , 
+run_2_repetition_0,TODO,paddle,Old_books_Arabic,Noisy_Dataset,1,ara, , , 
+run_10_repetition_1,DONE,paddle,notes,Omni_Dataset,1,eng,305.16461181640625,16.412468,12089966592
+run_23_repetition_8,DONE,tesseract,Newspaper,Omni_Dataset,10,eng,1472.6504821777344,75.032845,10355904512
+run_20_repetition_0,DONE,tesseract,Book,Omni_Dataset,1,eng,21.00360107421875,1.2042098,9415159808
+run_26_repetition_9,DONE,tesseract,slides,Omni_Dataset,1,eng,11.510406494140625,0.80437464,9383243776
+run_6_repetition_6,DONE,paddle,Book,Omni_Dataset,1,eng,373.7486572265625,20.215296,12531650560
+run_15_repetition_6,DONE,tesseract,Old_books_2noise,Noisy_Dataset,10,eng,168.72657775878906,8.005819,9589481472
+run_11_repetition_9,DONE,paddle,notes,Omni_Dataset,10,eng,2046.2310333251953,85.84247,13030846464
+run_11_repetition_2,DONE,paddle,notes,Omni_Dataset,10,eng,2048.518783569336,86.241356,13104472064
+run_27_repetition_9,DONE,tesseract,slides,Omni_Dataset,10,eng,95.68943786621094,5.0051603,9568841728
+run_4_repetition_6,DONE,paddle,Old_books_No_noise,Noisy_Dataset,1,eng,23.118728637695312,3.6066413,9400225792
+run_9_repetition_3,TODO,paddle,Newspaper,Omni_Dataset,10,eng, , , 
+run_1_repetition_8,DONE,paddle,Old_books_2noise,Noisy_Dataset,10,eng,2702.0492401123047,117.05662,13437853696
+run_13_repetition_3,TODO,paddle,slides,Omni_Dataset,10,eng, , , 
+run_27_repetition_5,DONE,tesseract,slides,Omni_Dataset,10,eng,94.77969360351562,5.005268,9599205376
+run_17_repetition_9,DONE,tesseract,Old_books_Arabic,Noisy_Dataset,10,ara,14.700088500976562,1.003759,9403867136
+run_17_repetition_5,DONE,tesseract,Old_books_Arabic,Noisy_Dataset,10,ara,14.80487060546875,1.003555,9375932416
+run_2_repetition_4,TODO,paddle,Old_books_Arabic,Noisy_Dataset,1,ara, , , 
+run_4_repetition_5,DONE,paddle,Old_books_No_noise,Noisy_Dataset,1,eng,41.40794372558594,4.206508,9534242816
+run_10_repetition_3,DONE,paddle,notes,Omni_Dataset,1,eng,301.92852783203125,17.012709,12010635264
+run_24_repetition_5,DONE,tesseract,notes,Omni_Dataset,1,eng,11.083602905273438,0.80324876,9544339456
+run_18_repetition_7,DONE,tesseract,Old_books_No_noise,Noisy_Dataset,1,eng,4.2470855712890625,0.40318772,9405100032
+run_3_repetition_9,TODO,paddle,Old_books_Arabic,Noisy_Dataset,10,ara, , , 
+run_13_repetition_8,DONE,paddle,slides,Omni_Dataset,10,eng,1935.134292602539,81.4377,12522414080
+run_10_repetition_2,DONE,paddle,notes,Omni_Dataset,1,eng,281.57733154296875,14.208932,12117512192
+run_16_repetition_0,DONE,tesseract,Old_books_Arabic,Noisy_Dataset,1,ara,7.1811981201171875,0.6046014,9508786176
+run_19_repetition_8,DONE,tesseract,Old_books_No_noise,Noisy_Dataset,10,eng,4.2656707763671875,0.4036523,9388691456
+run_14_repetition_7,DONE,tesseract,Old_books_2noise,Noisy_Dataset,1,eng,16.686721801757812,1.0040872,9408761856
+run_7_repetition_9,DONE,paddle,Book,Omni_Dataset,10,eng,2104.2161865234375,87.642426,13144313856
+run_19_repetition_7,DONE,tesseract,Old_books_No_noise,Noisy_Dataset,10,eng,4.18328857421875,0.40376186,9498501120
+run_14_repetition_6,DONE,tesseract,Old_books_2noise,Noisy_Dataset,1,eng,16.492034912109375,1.0036356,9448730624
+run_20_repetition_5,DONE,tesseract,Book,Omni_Dataset,1,eng,21.12445068359375,1.2031673,9418174464
+run_7_repetition_7,DONE,paddle,Book,Omni_Dataset,10,eng,2109.5463256835938,90.44589,12995469312
+run_22_repetition_8,DONE,tesseract,Newspaper,Omni_Dataset,1,eng,84.93989562988281,4.2046614,9600802816
+run_7_repetition_6,DONE,paddle,Book,Omni_Dataset,10,eng,2106.551300048828,88.4463,13115777024
+run_1_repetition_7,DONE,paddle,Old_books_2noise,Noisy_Dataset,10,eng,2699.8211364746094,114.653625,13336223744
+run_16_repetition_1,DONE,tesseract,Old_books_Arabic,Noisy_Dataset,1,ara,4.14825439453125,0.40301138,9453195264
+run_16_repetition_5,DONE,tesseract,Old_books_Arabic,Noisy_Dataset,1,ara,4.1732940673828125,0.4030834,9357135872
+run_22_repetition_0,DONE,tesseract,Newspaper,Omni_Dataset,1,eng,85.60548400878906,4.2079544,9492463616
+run_25_repetition_8,DONE,tesseract,notes,Omni_Dataset,10,eng,55.31797790527344,3.2082918,9527291904
+run_17_repetition_6,DONE,tesseract,Old_books_Arabic,Noisy_Dataset,10,ara,16.006698608398438,1.0034031,9391353856
