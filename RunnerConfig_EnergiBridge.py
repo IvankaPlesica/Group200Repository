@@ -30,7 +30,7 @@ class RunnerConfig:
 
     """The time Experiment Runner will wait after a run completes.
     This can be essential to accommodate for cooldown periods on some systems."""
-    time_between_runs_in_ms:    int             = 10000
+    time_between_runs_in_ms:    int             = 60000
 
     # Dynamic configurations can be one-time satisfied here before the program takes the config as-is
     # e.g. Setting some variable based on some criteria
@@ -58,7 +58,7 @@ class RunnerConfig:
         factor1 = FactorModel("ocr_library", ['paddle', 'tesseract'])
         factor2 = FactorModel("document_type", ['Old_books_2noise', 'Old_books_Arabic', 'Old_books_No_noise', 'Book', 'Newspaper', 'notes', 'slides'])
         factor3 = FactorModel("dataset", ['Noisy_Dataset', 'Omni_Dataset'])
-        factor4 = FactorModel("sample_size", [1,10])
+        factor4 = FactorModel("sample_size", [1,20])
         factor5 = FactorModel("language", ['eng', 'ara'])
         self.run_table_model = RunTableModel(
             factors = [factor1, factor2, factor3, factor4, factor5],
@@ -69,7 +69,7 @@ class RunnerConfig:
                 {factor2: ['Old_books_Arabic'], factor5: ['eng']},
             ],
             data_columns=["energy", "runtime", "memory"],
-            repetitions=10,
+            repetitions=30,
             shuffle=True,
         )
         return self.run_table_model
