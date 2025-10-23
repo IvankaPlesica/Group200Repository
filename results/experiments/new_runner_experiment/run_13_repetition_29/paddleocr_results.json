@@ -1,0 +1,82 @@
+[
+  {
+    "image": "PPT_BaharMartonosi_page_010.png",
+    "pred": "THE\nBIGGER\nPICTURE:\nCOMMUNICATION\nYOUR CAREER\nAND\nExpressing\nyourself\nf technically\nhelps\nmake\nand\nyou\nuse\nprofessional\nl connections\ns wisely\nYou are joining\ng a long-term\ncommunity...\nCommunicate\nr ideas to forge\nyour\nmentoring\nand\ntechnical\nrelationships\nin\nthe\nservice\ne of\nprofessional\ngoals"
+  },
+  {
+    "image": "PPT_B14_Claeys_Consistent Presentation of Images_v2_page_024.png",
+    "pred": "What\nabout\ncolor\n?\nConsistency\nis\nharder\nto\nachieve\nGamut\nof\ndevices\nmuch\nvariable\nmore\nGreater\ninfluence\nof\npsychovisual\neffects\nExtensive\nstandards\nefforts\nICC\ne.g.\nDICOM\nrecently\ndefined\ncolor\npresentation\nsimilar\n1n\na\nmanner\nvery\nto\ngrayscale.\nMany\ndisplay\nand\nprint\ndevices\nalready\nhave\nICC\nprofiles,\nbut\nfew\nmedical\nimaging\ndevices\nsupport color\npresentation\nstate.\n"
+  },
+  {
+    "image": "PPT_MMAT5390Lecture1_page_023.png",
+    "pred": "What is a digital\nimage?\nT\nMathematical definition:\nＡ2D\n(grayscale) digital image is a 2D function defined on a 2D domain\n(usually rectangular domain):\nf(x, y)\nis called the brightness/intensity/grey level;\n(x,y)\nis\nthe spatial coordinates of the image.\nThus, a 2D (\ndigital image looks like this:\n[cd (1, 1)\nf (1, 2)\nf (1, N ) ]\nf(2, 1)\nf (2, 2)\nf (2, N )\nf(x, y) =\n··\n\n·\nf (N, 1)\nf (N , 2)\nf (N, N )\nEach element in the matrix is called pixel (picture element);\nUsually, 0 ≤ f (x, y) ≤ G − 1 and (N = 2n, G = 2m)\nIMAGE PROCESSInG IS RELATED TO LINEAR ALGEBRA!!"
+  },
+  {
+    "image": "PPT_Keuk Chan Narith_page_005.png",
+    "pred": "An\nEmergence of English\nh Ianguage variety in Cambodia\nNeeds\nof\nEnglish language:\nliving\nsurvival\nhigher\neducation\ndiplomatic\nrelationship\nseeking\nresidency\nabroad"
+  },
+  {
+    "image": "PPT_PresentationSpecification_page_007.png",
+    "pred": "IMPORTANT\nDATES\nYou\nshould:\nBy\nJan\n24,\n2016;\nForm groups with 4 students; and\n□\n Determine\ne your presentation topic; and\n口\nBy\nJan\n31,\n2016;\nSubmit\nthe Group Presentation Topic and Desc;\n□\nDon't miss\nthe due dates!!!\n□\nWe suggest you taking action as early\nas\n□\npossible;\nENGG100O Presentation Specification\n5/21/2025"
+  },
+  {
+    "image": "PPT_1637904769_page_008.png",
+    "pred": "OBJECTIVES\nOF\nTEACHING/LEARNING\nENGLISH\nLinguistic\ncompetence.\nSocio-linguistic\ncompetence.\n\nPragmatical\ncompetence.\nCultural\ncompetence.\nLiterary\ncompetence.\nPractical\ncompetence."
+  },
+  {
+    "image": "PPT_ch7_page_020.png",
+    "pred": "7.2 Matrix Multiplicatior\nOur\nr examples\n; show\nthat\nt in matrix\nproducts the order of\nfactors\nmust\nalways\nbe observed very carefully.\n1\n\nOtherwise\nmatrix r\nmultiplication satisfies\ns rules similar to\nthose for r\nnumbers, namely.\n(a)\n(kA)B = k(AB) = A(kB)\nwritten kAB or AkB\n(q)\nA(BC) = (AB)C\nwritten ABC\n(2)\n(c) (A + B)C = AC + BC\n(d) C(A + B) = CA + CB\nprovided A, B, and C are such that the expressions on the\nleft are defined; here, k is any scalar. (2b) is called the\nassociative law. (2c) and (2d) are called the distributive\nlaws.\nSection 7.2 p20\nAdvanced Engineering Mathematics, 10/e by Edwin Kreyszig\nCopyright 2011 by John Wiley & Sons. All rights reserved."
+  },
+  {
+    "image": "PPT_fundamental_theorem_of_calculus___page_005.png",
+    "pred": "Generally, this is what we could do:\nArea of 1 rectangle ≈ f(x) × h\nf(x)\nh\nArea of all the rectangles ≈\n∑f(x)×h\nActual area under the curve = lim\n∑f(x)×h\nh→→0\nSf(x) dx\nwhich\nh is written as\n but evaluating this limit is incredibly complicated)"
+  },
+  {
+    "image": "PPT_fundamental_theorem_of_calculus___page_006.png",
+    "pred": "After an lot of algebra, it would probably\ncome to an expression similar to this:\nArea\n56( 1 + 2h + 4h² + 8h³ + .. )\nlim\nas h→0\n= 56 units²\nUnfortunately,\n, simplyfying\n the expression\ninto something\nlike\nthe above\nis\nextremely\ndifficult.\n(see pages 285 – 288 in my book)"
+  },
+  {
+    "image": "PPT_BaharMartonosi_page_006.png",
+    "pred": "A“TYPICAL”PROJECT\nT TALK OUTLINE\nTitle/author/affiliation (1 slide)\nWho am\nI?\nForecast (1 slide)\nGive gist of problem attacked and\nWhat\nt is\nthe problem?\ninsight found\nOutline (1 slide)\nBackground\nMotivation and Problem\n Why is it important?\nStatement (1-2 slides)\nWhat have others done?\nRelated Work (0-1 slides)\nMethods (1-3 slides)\nWhat\nt is my approach?\nExplain your approach; illustrate\nalgorithm"
+  },
+  {
+    "image": "PPT_1637904769_page_017.png",
+    "pred": "CONCLUSION\nUse\nof\naudio-visual\naids.\nWe\nshould\nalways\nthat\nteaching\nand\nlearning\nremember\nwe\nare\nEnglish\nlanguage\nfor\nourselves,\nnot\nfor\nthe\ninterest\nof\nthe\nwest\nnor\nfor\nthe\nMNCs\nthe\nWe\nwould\nof\nsuperpowers.\nnot\nallow\nthose\nalien\ndisplace\nnative\nlanguages\nThe\nEnglish\nto\nlanguage\npower\nour\nshould\nbe\nharmony\nwith\nregional\nin\nlanguages,\ntraditional\nour\nour\nvalues,\nsocio-cultural\nset-up\netc.\nour\nSo\nshould\nframe\nand\ndesign\nthe\nsyllabus\nand\nprepare\nthe\ntexts\nwe\nand\nIndian\nin\ncontents\nconcept,\ncolour\nand\nspirit\nwith\na\nview\nto\nhelping\nthe\nskills\nof\nEnglish\nlearners\nto\nacquire\nlanguage\nand\nour\na\ndevelop\nin\nthem\nof\nbelongingness\nthe same\ntime\nto\nto\na\nsense\nour\nsocio-cultural\nand\nhigh\nidentities\nregard\nfor\nIndian\nrealities.\ncongenial\nteaching\nlearning\nshould\nsituation\nThe\nteachers\ncreate\na\ncompelled\nto\nlearn\nEnglish\nbut\nthey\nwhere\nthe\nstudents\nare\nnot\nto\nacquire\nthe\nEnglish\nlanguage\nforward\nd by\nthemselves\nand\ncome\ne English\nliterature.\nappreciate"
+  },
+  {
+    "image": "PPT_session 10_page_022.png",
+    "pred": "HELP\nPRON + V\n+\nSECTION\n1920s\n1930s\n1940s\n1950s\n1960s\n1970s\n1980s\n1990s\n2000s\nFREQ\n64\n186\n257\n307\n234\n246\n217\n346\n322\nPER. MIL\n8.38\n14.69\n16.63\n18.29\n14.55\n18.10\n19.08\n35.54\n50.10\nSEE\nALL\nTEARS\nAT\nONCE\n[help].[vv*] [p*] [v*i]"
+  },
+  {
+    "image": "PPT_EnglishtoAmericanTransition_page_009.png",
+    "pred": "Changes to English (in America)\nChange\ne2\nThe\"th\"on the end of verbs Was dropped\nmakethe became\nleadeth\nbecame\nrunneth\nn became\ngoeth\nn became\nChange\n3\nThe middle \"t\"sound disappeared"
+  },
+  {
+    "image": "PPT_linear-algebra primer_page_008.png",
+    "pred": "Bases & Orthonormal\nBases\nBasis (or axes): frame of reference\n(n₁,₂)\ny\n4\nx\nVS\nBasis: a space is totally defined by a set of vectors — any point is a linear\ncombination of the basis\nOrtho-Normal: orthogonal + normal\n1=x\n0F\n0\nx• y = 0\ny = [0\n0J\n[Sneak peek:\n1\nx·z = 0\nOrthogonal: dot product is zero\nz = [i\n1\n0\ny·z= 0\nNormal: magnitude is one ]\nShivkumar Kalyanaraman\nRensselaer Polytechnic Institute"
+  },
+  {
+    "image": "PPT_11.2013EvaluatingTraineeteacherproficiency_page_010.png",
+    "pred": "Good\nd Language Teachers\nUNIVERSITY OF LEEDS\nMostly based on asking language learners and showed that\nlanguage proficiency was seen as one important factor\nEg: Girard (1977- French learners of English),\nteaches good\npronunciation, explains clearly, speaks good English,\nEg: Brosh (1996)\nknowledge and command of the target language;\nTeacher Evaluation — context universal- Evaluation fairly\nsimple - based on visible behaviours / learner outcomes\nin'objective'tests"
+  },
+  {
+    "image": "PPT_ch7_page_021.png",
+    "pred": "7.2 Matrix Multiplicatiot\nParallel\nprocessing of\nproducts on the computer is\nfacilitated\n (3) for computing C = AB, which\nby\nvariant\nof\na\nis\nused by\nalgorithms\n(such as\ns in\nstandard\nLapack). In this\nmethod, A\nis\ngiven,\nB\n is taken in terms of its\nused\nS1\nas\nthe product is computed\ncolumn vectors, a\nand\ncolumnwise; thus,\nb2…\nAb2\nAbp].\n(5) AB = A[b1\n bp] = [Ab1\nColumns of B\nare then assigned to different processors\n(individually\ny or several to each processor), which\nsimultaneously compute the columns of the product\nmatrix Ab1, Ab2, etc.\nAdvanced Engineering Mathematics, 10/e by Edwin Kreyszig\nSection 7.2 p21\nCopyright 2011 by John Wiley & Sons. All rights reserved."
+  },
+  {
+    "image": "PPT_BaharMartonosi_page_007.png",
+    "pred": "A“TYPICAL”PROJECT\nr TALK OUTLINE\nResults (2-6 slides)\nPresent key results and key insights. This is\nmain body of the talk, but don't try to show ALL\nresults.\no Summary (1 slide)\n3 Things to Remember!\n Future Work (0-1 slides)\nBackup Slides (O-3 slides)\nOptionally have a few slides ready to answer\nexpected questions."
+  },
+  {
+    "image": "PPT_LEP power point presentation-English-FINAL-10-31-07_page_015.png",
+    "pred": "Thank\nYou!\nA\nthe well-being\nand safety of our children,\n...promoting\nfamilies and\ncommunities ...."
+  },
+  {
+    "image": "PPT_EnglishtoAmericanTransition_page_017.png",
+    "pred": "The Sharing of our Languages\nMany Words in England originated in America:\ncommuter, snag, strip tease, cold spell, g\ngimmick, b\nbaby\nsitter\nlengthy,\nsag, soggy,\nteenager,\ntelephone,\ntype\nwriter,\nradio,\nbut\nin\nside\ntrack,\nhang\nmake good,\n-\nover\nto\nfudge,\npublicity\njoy\nride,\nblizzard\nstunt,\nlaw\nabiding,\ndepartment\nstore,\nnotify\nadvocate,\n一\ncurrencyi\nto\npark,\nto\nrattle\nhind\nsight,\nbee\nline\nrain coat,\nscrawny,\ntake\nback\n1\na\nseat,\ncloud\nburst\n−\ngrave yard\nknow\nhow,\nto\nregister,\nto\nshut down, to fill the bill\nto\nhold\ndown\n(to keep),\nto\nhold up(to rob), to stay put, stiff\nlip, smog,\nupper\nweekend\ngadget,\nminiskirt,\nradar\n一\n(homosexual),\ngay\nbelittle\nscientist,\nPresidential\nnormalcy,\ntranspire, a\nantagonize,\nshoe\nstring, 64,000 $\nquestion, looking\n1\nD\nS\nlike\nea\nmillion\nbucks,\nmega\nbucks, stepping\non the gas, taking\nrain\ncheck\na"
+  },
+  {
+    "image": "PPT_ch7_page_030.png",
+    "pred": "7.2\nMatrix\nMultiplication\nIf\nall\nthe\ndiagonal\nentries\nof\ndiagonal\na\nmatrix\nS\nequal,\nare\nmultiplication of any\ncall S\nS\nscalar r\nmatrix\nbecause\nsay,\nC,\nwe\na\nmatrix A of the same\nsize by S\nhas\nthe same effect\nsquare\nas\nthe\nmultiplication by a scalar, that is,\n(12)\nAS = SA = cA.\nIn particular,\nscalar\nmatrix,\nwhose entries\ns on the main\na\n」\ndiagonal\nall\n1,\ncalled\nunit\nmatrix\nx (or identity\nis\nmatrix)\nare\na\nI1\nand i\nis\ndenoted\nby\nsimply\nby\nI. For I, formula (12)\nIi\nOr\n'N\nbecomes\n(13)\nAI = IA = A.\nAdvanced Engineering Mathematics, 10/e by Edwin Kreyszig\nSection 7.2 p30\nCopyright 2011 by John Wiley & Sons. All rights reserved."
+  }
+]

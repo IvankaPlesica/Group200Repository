@@ -1,0 +1,82 @@
+[
+  {
+    "image": "PPT_BaharMartonosi_page_010.png",
+    "pred": "THE BIGGER PICTURE:\nCOMMUNICATION AND YOUR CAREER\n\nExpressing yourself technically\nhelps you make and use\nprofessional connections wisely\n\nYou are joining a long-term\ncommunity...\n\nCommunicate your ideas to forge\nmentoring and technical\nrelationships in the service of\n\nprofessional goals ©\n"
+  },
+  {
+    "image": "PPT_B14_Claeys_Consistent Presentation of Images_v2_page_024.png",
+    "pred": "What about color 7\n\n= Consistency is harder to achieve\n— Gamut of devices much more variable\n— Greater influence of psychovisual effects\n\n= Extensive standards efforts e.g. ICC\n\n= DICOM recently defined color presentation\nin a manner very similar to grayscale.\n\n— Many display and print devices already have\nICC profiles, but few medical imaging devices\nsupport color presentation state.\n"
+  },
+  {
+    "image": "PPT_MMAT5390Lecture1_page_023.png",
+    "pred": "What is a digital image?\n\n=» Mathematical definition:\n» A 2D (grayscale) digital image is a 2D function defined on a 2D domain\n(usually rectangular domain):\n\nf:Q3R\n\n» f(z,y) is called the brightness/intensity/grey level;\n= (x,y) is the spatial coordinates of the image.\n= Thus, a 2D digital image looks like this:\n\nFAA) f0,2) .-. FAN)\n\nF241) f(2,2) .-.  £(2,N)\nfry= |, . .\n\nFIN, VD) FN,2) «FCN, N)\n\n=» Each element in the matrix is called pixel (picture element);\n» Usually, 0 < f(x,y) <G—1 and (N =2\",G=2\")\n\nIMAGE PROCESSING IS RELATED TO LINEAR ALGEBRA!!\n"
+  },
+  {
+    "image": "PPT_Keuk Chan Narith_page_005.png",
+    "pred": "An Emergence of English language variety in Cam\n\ne Needs of English language:\n- living survival\n\n- higher education\n\n- diplomatic relationship\n\n- seeking residency abroad\n"
+  },
+  {
+    "image": "PPT_PresentationSpecification_page_007.png",
+    "pred": "e\n\nIMPORTANT DATES\n\n@ You should:\n\n@eBy Jan 24, 2016;\n\nForm groups with 4 students; and\n\no Determine your presentation topic; and\ne@By Jan 31, 2016;\n\nSubmit the Group Presentation Topic and Desc;\no Don’t miss the due dates!!!\no We suggest you taking action as early as\npossible;\n\nENGG1000 Presentation Specification 5/21/2025\n\n/\n\n"
+  },
+  {
+    "image": "PPT_1637904769_page_008.png",
+    "pred": "OBJECTIVES OF\nTEACHING/LEARNING ENGLISH\n\ne Linguistic competence.\ne Socio-linguistic competence.\ne Pragmatical competence.\ne Cultural competence.\n_@ Literary competence.\n\n_\n\ne\n"
+  },
+  {
+    "image": "PPT_ch7_page_020.png",
+    "pred": "7.2 Matrix Multiplication\n\nOur examples show that in matrix products the order of\nfactors must always be observed very carefully.\nOtherwise matrix multiplication satisfies rules similar to\nthose for numbers, namely.\n\n(a) (kA)B=k(AB)=A(kB) written kAB or AkB\n(2) (b) A(BC)=(AB)C written ABC\n\n(c) (A+B)C =AC+BC\n\n(d) C(A+B)=CA+CB\n\nprovided A, B, and C are such that the expressions on the\nleft are defined; here, k is any scalar. (2b) is called the\nassociative law. (2c) and (2d) are called the distributive\nlaws.\n\nSection 7.2 p20 Advanced Engineering Mathematics, 10/e by Edwin Kreyszig\nCopyright 2011 by John Wiley & Sons. All rights reserved.\n"
+  },
+  {
+    "image": "PPT_fundamental_theorem_of_calculus___page_005.png",
+    "pred": "Generally, this is what we could do:\na __ |\nArea of 1 rectangle = f(x) xh\nf(x)\n\nh\nArea of all the rectangles = > f(x)x h\n\nActual area under the curve =lim > f(x)xh\nh—0\n\nwhich is written as fo) dx\n( but evaluating this limit is incredibly complicated)\n"
+  },
+  {
+    "image": "PPT_fundamental_theorem_of_calculus___page_006.png",
+    "pred": "After an lot of algebra, it would probably\ncome to an expression similar to this:\n\nArea = lim 56(1+2h + 4h? + 8h? +... )\nas h>0\n\n= 56 units?\n\nUnfortunately, simplyfying the expression\ninto something like the above is extremely\ndifficult. (see pages 285 — 288 in my book)\n"
+  },
+  {
+    "image": "PPT_BaharMartonosi_page_006.png",
+    "pred": "A “TYPICAL” PROJECT TALK OUTLINE\no Title/author/affiliation (1 slide) Who am I?\n\n© Forecast (1 slide)\n\nGive gist of problem attacked and What is the problem?\n\ninsight found\no Outline (1 slide)\no Background\n\ne Motivation and Problem ‘Why is it important?\n\nStatement (1-2 slides)\n\n- Related Work (0-1 slides) _ WHA IaiveOtheS/donie?)\n\ne Methods (1-3 slides)\nExplain your approach; illustrate\nalgorithm\n"
+  },
+  {
+    "image": "PPT_1637904769_page_017.png",
+    "pred": "CONCLUSION\n\ne Use of audio-visual aids.\n\ne We should always remember that we are teaching and learning\nEnglish jangua e for ourselves, not for the interest of the west nor\nfor the MNCs of the superpowers. We would not allow those alien\npower to displace our native languages. The English language\nshould be in harmony with our regional languages, our traditional\nvalues, our socio-cultural set-up etc.\n\ne So we should frame and design the syllabus and prepare the texts\nand contents Indian in concept, colour and spirit with a view to\nhelping our learners to acquire the skills of English language and at\nthe game time to develop in them a sense of belongingness to our\n\n\\ -cultural identities and high regard for Indian realities.\n\nrs should create a congenial teaching- learning situation\ne students are not compelled to learn English but they\n\nard by themselves to acquire the English language and\nnglish literature.\n\n"
+  },
+  {
+    "image": "PPT_session 10_page_022.png",
+    "pred": "HELP + PRON + V\n\nSECTION a ae = <r a cs atm ae =<\n\n| 186 | 257 | 307 | 234 | 246 | 217 | 346 | 322 |\n\nPER 2 14.69 | 16.63 | 18.29 | 14.55 | 18.10 | 19,08 | 35,54 | 50,10\n\nSEE 4LL\nYEARS\nAT ONCE\n\n[help].[vv*] [p*] [v*i]\n"
+  },
+  {
+    "image": "PPT_EnglishtoAmericanTransition_page_009.png",
+    "pred": "Changes to English (in America)\n\nC] Change 2\nOi The “th” on the end of verbs was dropped\nm makethe became\nm leadeth became\nm@ runneth became\nm goeth became\n\nCi Change 3\nOi The middle “t” sound disappeared\n\n"
+  },
+  {
+    "image": "PPT_linear-algebra primer_page_008.png",
+    "pred": "Bases & Orthonormal Bases\n\nBasis (or axes): frame of reference\n\nV\\ \\\n\\\n\nBasis: a space is totally defined by a set of vectors — any point is a linear\ncombination of the basis\n\nOrtho-Normal: orthogonal + normal\n\nx=[l1 0 of x-y=0\n\n[Sneak peek: y= [o 1 of} x-z=0\nOrthogonal: dot product is zero. r —\nNormal: magnitude is one | c= lo 0 a yc=0\n\nShivkumar Kalyanaraman\n\nRensselaer Polytechnic Institute\n8 Google: “shiv rpi”\n\n"
+  },
+  {
+    "image": "PPT_11.2013EvaluatingTraineeteacherproficiency_page_010.png",
+    "pred": "it\n\nGood Language Teachers UNIVERSITY OF LEEDS\n\nMostly based on asking language learners and showed that\nlanguage proficiency was seen as one important factor\n\nEg: Girard (1977- French learners of English), teaches good\npronunciation, explains clearly, soeaks good English,\n\nEg: Brosh (1996)\n¢ knowledge and command of the target language;\n\nTeacher Evaluation — context universal- Evaluation fairly\nsimple - based on visible behaviours / learner outcomes\nin ‘objective’ tests\n"
+  },
+  {
+    "image": "PPT_ch7_page_021.png",
+    "pred": "7.2 Matrix Multiplication\n\nParallel processing of products on the computer is\nfacilitated by a variant of (3) for computing C = AB, which\nis used by standard algorithms (such as in Lapack). In this\nmethod, A is used as given, B is taken in terms of its\ncolumn vectors, and the product is computed\ncolumnwise; thus,\n\n(5) AB= A[b, b, ... b,]=[Ab,; Ab, ... Ab,].\nColumns of B are then assigned to different processors\n(individually or several to each processor), which\n\nsimultaneously compute the columns of the product\nmatrix Ab,, Ab,, etc.\n\nSection 7.2 p21 Advanced Engineering Mathematics, 10/e by Edwin Kreyszig\nCopyright 2011 by John Wiley & Sons. All rights reserved.\n"
+  },
+  {
+    "image": "PPT_BaharMartonosi_page_007.png",
+    "pred": "A “TYPICAL” PROJECT TALK OUTLINE\n\n© Results (2-6 slides)\nPresent key results and key insights. This is\nmain body of the talk, but don’t try to show ALL\nresults.\n\no Future Work (0-1 slides)\nBackup Slides (0-3 slides)\nOptionally have a few slides ready to answer\nexpected questions.\n"
+  },
+  {
+    "image": "PPT_LEP power point presentation-English-FINAL-10-31-07_page_015.png",
+    "pred": "Thank You!\n\n‘,..promoting the well-being and safety of our children,\nfamilies and communities....”\n"
+  },
+  {
+    "image": "PPT_EnglishtoAmericanTransition_page_017.png",
+    "pred": "The Sharing of our Languages\n\nC1 Many words in England originated in America:\n\n™ commuter, snag, strip tease, cold spell, gimmick, baby sitter,\nlengthy, sag, soggy, teenager, telephone, type writer, radio,\nbut in, side track, hang over, to make good, fudge, publicity\n\nm joy ride, blizzard, stunt, law abiding, department store, notify,\nadvocate, currency, to park, to rattle, hind sight, bee line,\nrain coat, scrawny, take a back seat, cloud burst\n\n™@ grave yard, know how, to register, to shut down, to fill the bill,\nto hold down (to keep), to hold up (to rob), to stay put, stiff\nupper lip, smog, weekend, gadget, miniskirt, radar\n\nm gay (homosexual), belittle, scientist, Presidential, normalcy,\ntranspire, antagonize, shoe string, 64,000 $ question, looking\nlike a million bucks, mega bucks, stepping on the gas, taking\na rain check\n\n"
+  },
+  {
+    "image": "PPT_ch7_page_030.png",
+    "pred": "7.2 Matrix Multiplication\n\nIf all the diagonal entries of a diagonal matrix S are equal,\nsay, c, we call S a scalar matrix because multiplication of any\nsquare matrix A of the same size by S has the same effect as\nthe multiplication by a scalar, that is,\n\n(12) AS =SA=cA.\n\nIn particular, a scalar matrix, whose entries on the main\ndiagonal are all 1, is called a unit matrix (or identity matrix)\nand is denoted by I, or simply by I. For I, formula (12)\nbecomes\n\n(13) AI=IA=A.\n\nSection 7.2 p30 Advanced Engineering Mathematics, 10/e by Edwin Kreyszig\nCopyright 2011 by John Wiley & Sons. All rights reserved.\n\n"
+  }
+]
